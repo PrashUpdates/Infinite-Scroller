@@ -2,7 +2,6 @@
 
 A clean and smooth infinite horizontal auto-scrolling container built using pure HTML and CSS.
 
----
 
 ## ✨ Features
 
@@ -12,14 +11,12 @@ A clean and smooth infinite horizontal auto-scrolling container built using pure
 - 🖼️ Dynamic Content & Image Support
 - 📱 Responsive Layout
 
----
 
 ## 🚀 Built With
 
 - HTML5
 - CSS3 (Pure CSS Animations)
 
----
 
 ⭐ Beginner-friendly UI project.
 
